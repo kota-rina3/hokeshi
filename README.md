@@ -12,5 +12,6 @@
 |千问客户端 for linux|com.qianwen.otohime|2.3.2|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qwen-linux-2.3.2 "点击")|
 |千问客户端国际版 for linux|ai.qwen.otohime|1.0.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qwen-global-1.0.3 "点击")|
 |Deepin-Wine转区工具|otohime.deepin-wine.localemulator|3.4|amd64|[点击](https://github.com/kota-rina3/dwle/releases/tag/v3.4 "点击")|
+|採图标|otohime.cai.ico|17.25.42|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/caiico17 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
 
