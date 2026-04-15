@@ -6,7 +6,7 @@
 |微信多重影|otohime.wechat.kages|4.0|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/wechat-kages-4.0 "点击")|
 |希沃白板5 for Linux|com.seewo.easinote5|5.2.2.4.13964-fix3|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/easinote5-20251204 "点击")|
 |抖音 for linux|com.douyin.otohime|7.6.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/douyin7.6.0 "点击")|
-|网易云音乐 for Linux|netease.cloud.music.otohime|3.1.22|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/NeteaseCloudMusic3.1.22 "点击")|
+|网易云音乐 for Linux|netease.cloud.music.otohime|3.1.29|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/NeteaseCloudMusic3.1.29 "点击")|
 |响七菜切图NG|otohime.hibikinana.cutemoji|7.1|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/hbknana-ng "点击")|
 |小丑牌|balateo-linux|1.0|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/balateo-linux "点击")|
 |千问客户端 for linux|com.qianwen.otohime|2.3.2|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qwen-linux-2.3.2 "点击")|
