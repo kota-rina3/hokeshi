@@ -14,5 +14,6 @@
 |Deepin-Wine转区工具|otohime.deepin-wine.localemulator|3.4|amd64|[点击](https://github.com/kota-rina3/dwle/releases/tag/v3.4 "点击")|
 |採图标|otohime.cai.ico|18.02.20|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/caiico18 "点击")|
 |字符映射表NG|otohime.charmap|5.2.3668.0|amd64|[点击](https://github.com/kota-rina3/charmap-ng/releases/tag/5.2.3668.0 "点击")|
+|爱奇艺 for linux|com.iqiyi.otohime|14.3.5.9876|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/iqiyi14 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
 
