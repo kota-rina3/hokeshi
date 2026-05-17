@@ -17,4 +17,5 @@
 |爱奇艺 for linux|com.iqiyi.otohime|14.4.5.9968|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/iqiyi14.4.5 "点击")|
 |腾讯视频Linux版 Re:Birth|tenvideo-universal|11.164.9775.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/tenvideo-v11 "点击")|
 |PDF试卷切题工具|pdf-to-ppt-tool|2.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/pdf2ppt-2.3 "点击")|
+|国家中小学智慧教育平台|zxxedu|1.3.9|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/zxxedu1.3.9 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
