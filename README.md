@@ -1,5 +1,6 @@
 # hokeshi
 校医的保健室，有新奇玩意
+> 觉得好用请给个star吧~！若有问题或建议，请开issue或来Q群634133484
 
 |软件名         |包名           |版本号        |支持架构       |           地址|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -18,5 +19,6 @@
 |腾讯视频Linux版 Re:Birth|tenvideo-universal|11.164.9775.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/tenvideo-v11 "点击")|
 |PDF试卷切题工具|pdf-to-ppt-tool|2.5|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/pdf2ppt-2.5 "点击")|
 |国家中小学智慧教育平台|zxxedu|1.3.9|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/zxxedu1.3.9 "点击")|
-|QQ音乐|com.qq.music|1.1.8|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qqmusic1.1.8.3 "点击") |
+|QQ音乐|com.qq.music|1.1.8.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qqmusic1.1.8.3 "点击") |
+|蓝奏云盘|lanzou.disk.otohime|4.0.0|amd64、arm64、loong64|[点击]( "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
