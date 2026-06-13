@@ -6,7 +6,7 @@
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 |微信多重影|otohime.wechat.kages|4.0|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/wechat-kages-4.0 "点击")|
 |希沃白板5 for Linux|com.seewo.easinote5|5.2.2.4.13964-fix3|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/easinote5-20251204 "点击")|
-|抖音 for linux|com.douyin.otohime|7.8.201|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/douyin7.8.201 "点击")|
+|抖音 for linux|com.douyin.otohime|7.9.201|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/douyin7.9.201 "点击")|
 |网易云音乐 for Linux|netease.cloud.music.otohime|3.1.32.5|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/NeteaseCloudMusic3.1.32.5 "点击")|
 |响七菜切图NG|otohime.hibikinana.cutemoji|7.1|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/hbknana-ng "点击")|
 |小丑牌|balatro-linux|1.1.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/balatro-linux1.1.0 "点击")|
@@ -21,4 +21,5 @@
 |国家中小学智慧教育平台|zxxedu|1.3.9|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/zxxedu1.3.9 "点击")|
 |QQ音乐|com.qq.music|1.1.8.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qqmusic1.1.8.3 "点击") |
 |蓝奏云盘|lanzou.disk.otohime|4.0.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/lanzou4.0.0 "点击")|
+|语雀|com.yuque.otohime|4.2.1.1333|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/yuque4.2.1.1333 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
