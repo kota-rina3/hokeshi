@@ -22,4 +22,5 @@
 |QQ音乐|com.qq.music|1.1.8.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qqmusic1.1.8.3 "点击") |
 |蓝奏云盘|lanzou.disk.otohime|4.0.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/lanzou4.0.0 "点击")|
 |语雀|com.yuque.otohime|4.2.1.1333|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/yuque4.2.1.1333 "点击")|
+|MoeKoe Music|moekoemusic|1.6.6|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/moekoe1.6.6 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
