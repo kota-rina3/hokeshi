@@ -24,4 +24,5 @@
 |语雀|com.yuque.otohime|4.2.1.1333|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/yuque4.2.1.1333 "点击")|
 |MoeKoe Music|moekoemusic|1.6.6|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/moekoe1.6.6 "点击")|
 |腾讯元宝|com.tencent.yuanbao.otohime|2.62|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/yuanbao2.62 "点击")|
+|小丸工具箱粉丝重制版 for Linux|maruko.toolbox.rewrite|1.1.2|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/MarukoToolbox-Rewrite-Linux/releases/tag/1.1.2 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
