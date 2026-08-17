@@ -27,4 +27,5 @@
 |小丸工具箱粉丝重制版 for Linux|maruko.toolbox.rewrite|1.1.2|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/MarukoToolbox-Rewrite-Linux/releases/tag/1.1.2 "点击")|
 |观潮台|dowjones.guanchaotai.otohime|2.0.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/guanchaotai-2.0 "点击")|
 |lossless-cut无损剪辑|github.mifi.losslesscut|3.69.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/losslesscut-v3.69.0 "点击")|
+|高途编程 for Linux|gaotu-coding-otohime|1.1.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/gtbc-1.1.3 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
