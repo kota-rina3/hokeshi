@@ -29,6 +29,7 @@
 |lossless-cut无损剪辑|github.mifi.losslesscut|3.69.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/losslesscut-v3.69.0 "点击")|
 |高途编程 for Linux|gaotu-coding-otohime|1.1.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/gtbc-1.1.3 "点击")|
 |扣子|com.coze.uos|1.1.33|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/coze-1.1.33 "点击")|
-|WorkBuddy|cn.workbuddy.otohime|5.3.14|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/workbuddy-5.3.14 "点击")|
+|WorkBuddy|cn.workbuddy.otohime|5.4.7|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/workbuddy-5.4.7 "点击")|
 |omofun|app.omoo.otohime|2.0.1|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/omofun-2.0.1 "点击")|
+|彩咲乙女——renpy安装启动器|otohime.renpy.ayasaki.otome|8.5.4.6|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/renpy/releases/tag/8.5.4.6 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
