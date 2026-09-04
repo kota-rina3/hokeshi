@@ -7,10 +7,10 @@
 |微信多重影|otohime.wechat.kages|4.0|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/wechat-kages-4.0 "点击")|
 |希沃白板5 for Linux|com.seewo.easinote5|5.2.2.4.13964-fix3|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/easinote5-20251204 "点击")|
 |抖音 for linux|com.douyin.otohime|8.3.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/douyin8.3.0 "点击")|
-|网易云音乐 for Linux|netease.cloud.music.otohime|3.1.34|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/NeteaseCloudMusic3.1.34 "点击")|
+|网易云音乐 for Linux|netease.cloud.music.otohime|3.1.34.2|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/NeteaseCloudMusic3.1.34.2 "点击")|
 |响七菜切图NG|otohime.hibikinana.cutemoji|7.1|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/hbknana-ng "点击")|
 |小丑牌|balatro-linux|1.1.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/balatro-linux1.1.0 "点击")|
-|千问客户端 for linux|com.qianwen.otohime|3.7.5.145|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qwen-linux-3.7.5.145 "点击")|
+|千问客户端 for linux|com.qianwen.otohime|4.2.0.193|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qwen-linux-4.2.0.193 "点击")|
 |千问客户端国际版 for linux|ai.qwen.otohime|1.0.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/qwen-global-1.0.3 "点击")|
 |Deepin-Wine转区工具|otohime.deepin-wine.localemulator|3.6|amd64|[点击](https://github.com/kota-rina3/dwle/releases/tag/v3.6 "点击")|
 |採图标|otohime.cai.ico|22.04.26|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/caiico22 "点击")|
@@ -23,7 +23,7 @@
 |蓝奏云盘|lanzou.disk.otohime|4.0.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/lanzou4.0.0 "点击")|
 |语雀|com.yuque.otohime|4.2.1.1333|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/yuque4.2.1.1333 "点击")|
 |MoeKoe Music|moekoemusic|1.6.8|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/moekoe1.6.8 "点击")|
-|腾讯元宝|com.tencent.yuanbao.otohime|2.79|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/yuanbao2.79 "点击")|
+|腾讯元宝|com.tencent.yuanbao.otohime|2.83.10|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/yuanbao2.83.10 "点击")|
 |小丸工具箱粉丝重制版 for Linux|maruko.toolbox.rewrite|1.1.2|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/MarukoToolbox-Rewrite-Linux/releases/tag/1.1.2 "点击")|
 |观潮台|dowjones.guanchaotai.otohime|2.0.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/guanchaotai-2.0 "点击")|
 |lossless-cut无损剪辑|github.mifi.losslesscut|3.69.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/losslesscut-v3.69.0 "点击")|
