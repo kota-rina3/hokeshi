@@ -36,4 +36,6 @@
 |缘之空重制版 for Linux|yosuga-no-sora-remake-linux|1.0.5|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/yosuga-no-sora-remake-linux/releases/tag/1.0.5 "点击")|
 |Beyond Compare|com.scootersoftware.bcompare|5.2.5-32530|amd64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/bcompare5.2.5 "点击")|
 |百度文库|com.wenku.baidu.uos|3.4.2|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/BaiduWenku-3.4.2 "点击")|
+|学习通Linux版|com.chaoxing.cxstudy|1.4.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/cxstudy-1.4.3 "点击")|
+|ZCode-Libre|zcode-libre|3.14.5|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/ZCode-Librev3.14.5 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
