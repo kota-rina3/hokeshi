@@ -28,14 +28,15 @@
 |观潮台|dowjones.guanchaotai.otohime|2.0.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/guanchaotai-2.0 "点击")|
 |lossless-cut无损剪辑|github.mifi.losslesscut|3.69.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/losslesscut-v3.69.0 "点击")|
 |高途编程 for Linux|gaotu-coding-otohime|1.1.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/gtbc-1.1.3 "点击")|
-|扣子|com.coze.uos|1.1.39|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/coze-1.1.39 "点击")|
-|WorkBuddy|cn.workbuddy.otohime|5.5.4|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/workbuddy-5.5.4 "点击")|
+|扣子|com.coze.uos|1.1.43|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/coze-1.1.43 "点击")|
+|WorkBuddy|cn.workbuddy.otohime|5.5.6|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/workbuddy-5.5.6 "点击")|
 |omofun|app.omoo.otohime|2.0.1|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/omofun-2.0.1 "点击")|
 |彩咲乙女——renpy安装启动器|otohime.renpy.ayasaki.otome|8.5.4.6|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/renpy/releases/tag/8.5.4.6 "点击")|
 |百度翻译|com.baidu.translateclient|2.4.1|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/bdfanyi-2.4.1 "点击")|
 |缘之空重制版 for Linux|yosuga-no-sora-remake-linux|1.0.5|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/yosuga-no-sora-remake-linux/releases/tag/1.0.5 "点击")|
-|Beyond Compare|com.scootersoftware.bcompare|5.2.5-32530|amd64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/bcompare5.2.5 "点击")|
-|百度文库|com.wenku.baidu.uos|3.4.2|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/BaiduWenku-3.4.2 "点击")|
+|Beyond Compare|com.scootersoftware.bcompare|5.2.6-32774|amd64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/bcompare5.2.6 "点击")|
+|百度文库|com.wenku.baidu.uos|3.4.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/BaiduWenku-3.4.3 "点击")|
 |学习通Linux版|com.chaoxing.cxstudy|1.4.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/cxstudy-1.4.3 "点击")|
 |ZCode-Libre|zcode-libre|3.14.5|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/ZCode-Librev3.14.5 "点击")|
+|百度翻译企业版|com.baidu.translateclient.company|1.2.1|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/bdfanyi-company-1.2.1 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
