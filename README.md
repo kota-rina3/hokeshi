@@ -39,4 +39,5 @@
 |学习通Linux版|com.chaoxing.cxstudy|1.4.3|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/cxstudy-1.4.3 "点击")|
 |ZCode-Libre|zcode-libre|3.14.5|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/ZCode-Librev3.14.5 "点击")|
 |百度翻译企业版|com.baidu.translateclient.company|1.2.1|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/bdfanyi-company-1.2.1 "点击")|
+|海马云电脑|com.haimacloud.otohime|2.7.3.417|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/haimacloud2.7.3 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
