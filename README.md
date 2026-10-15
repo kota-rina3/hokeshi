@@ -41,5 +41,5 @@
 |百度翻译企业版|com.baidu.translateclient.company|1.2.1|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/bdfanyi-company-1.2.1 "点击")|
 |海马云电脑|com.haimacloud.otohime|2.7.3.417|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/haimacloud2.7.3 "点击")|
 |荐片|app.jianpian.otohime|5.0.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/jianpian-v5.0.0 "点击")|
-|网易有道翻译|netease.youdao.dict.otohime|11.3.22.011.3.22.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/youdaodict-v11.3.22.0 "点击")|
+|网易有道翻译|netease.youdao.dict.otohime|11.3.22.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/youdaodict-v11.3.22.0 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
