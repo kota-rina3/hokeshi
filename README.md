@@ -15,7 +15,7 @@
 |Deepin-Wine转区工具|otohime.deepin-wine.localemulator|3.6|amd64|[点击](https://github.com/kota-rina3/dwle/releases/tag/v3.6 "点击")|
 |採图标|otohime.cai.ico|22.04.26|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/caiico22 "点击")|
 |字符映射表NG|otohime.charmap|5.2.3670.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/charmap-ng/releases/tag/5.2.3670.0 "点击")|
-|爱奇艺 for linux|com.iqiyi.otohime|14.4.5.9968|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/iqiyi14.4.5 "点击")|
+|爱奇艺 for linux|com.iqiyi.otohime|14.10.0.10320|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/iqiyi14.10-fix1 "点击")|
 |腾讯视频Linux版 Re:Birth|tenvideo-universal|11.178.5334.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/tenvideo-v11.178.5334.0 "点击")|
 |PDF试卷切题工具|pdf-to-ppt-tool|2.5|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/pdf2ppt-2.5 "点击")|
 |国家中小学智慧教育平台|zxxedu|1.3.11|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/zxxedu1.3.11 "点击")|
