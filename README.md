@@ -31,7 +31,7 @@
 |扣子|com.coze.uos|1.1.43|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/coze-1.1.43 "点击")|
 |WorkBuddy|cn.workbuddy.otohime|5.5.6|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/workbuddy-5.5.6 "点击")|
 |omofun|app.omoo.otohime|2.0.1|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/omofun-2.0.1 "点击")|
-|彩咲乙女——renpy安装启动器|otohime.renpy.ayasaki.otome|8.5.4.6|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/renpy/releases/tag/8.5.4.6 "点击")|
+|彩咲乙女——renpy安装启动器|otohime.renpy.ayasaki.otome|8.5.4.7|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/renpy/releases/tag/8.5.4.7 "点击")|
 |百度翻译|com.baidu.translateclient|2.4.1|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/bdfanyi-2.4.1 "点击")|
 |缘之空重制版 for Linux|yosuga-no-sora-remake-linux|1.0.9|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/yosuga-no-sora-remake-linux/releases/tag/1.0.9 "点击")|
 |Beyond Compare|com.scootersoftware.bcompare|5.2.6-32774|amd64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/bcompare5.2.6 "点击")|
