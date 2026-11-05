@@ -42,4 +42,5 @@
 |海马云电脑|com.haimacloud.otohime|2.7.3.417|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/haimacloud2.7.3 "点击")|
 |荐片|app.jianpian.otohime|5.0.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/jianpian-v5.0.0 "点击")|
 |网易有道翻译|netease.youdao.dict.otohime|11.3.26.0|amd64、arm64、loong64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/youdaodict-v11.3.26.0 "点击")|
+|Loomy|cn.xunfei.loomy.otohime|0.9.39.0|amd64、arm64|[点击](https://github.com/kota-rina3/hokeshi/releases/tag/Loomy0.9.39 "点击")|
 |  ？ | ？  |  ？ |  ？ |？|
